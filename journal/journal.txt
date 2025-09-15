@@ -1,0 +1,12 @@
+AI Usage Journal
+Heaven Worku
+heavenw@terpmail.umd.edu
+Scetion 0203
+
+Week 1
+This week I used google's AI overview feature for our Week 1 Code Exercises. I used it to get explainations on certain 
+concepts that I either wasn't familar with or needed to re-familarize myself with such as '.format' and rounding. For example,
+I simply searched "python .format" into my google search bar and the AI overview gave me a quick run down on what instances it 
+is used for aswell as an example on how to use it. I did not use AI to complete the exercises nor debug my code. 
+
+My statement above summarizes my AI use this week for this class. 

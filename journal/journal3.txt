@@ -1,0 +1,9 @@
+AI Usage Journal
+Heaven Worku
+heavenw@terpmail.umd.edu
+Section 0203
+
+Week 2
+This week I used AI while working on the exercises. There was one 
+question were I couldn't figure out why my code was not working
+so I used it to debug my code. It was an easy fix.

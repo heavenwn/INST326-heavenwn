@@ -1,0 +1,10 @@
+AI Usage Journal
+Heaven Worku
+heavenw@terpmail.umd.edu
+Section 0203
+
+Week 7
+This week I used AI to help me learn concepts that we need for the exercises.
+Some of the problems were harder than others so I had to ask a lot of questions
+to understand how to begin coding for the problems. I also used AI to learn how
+to make branches in github but it was still kind of confusing.

@@ -1,0 +1,10 @@
+AI Usage Journal
+Heaven Worku
+heavenw@terpmail.umd.edu
+Section 0203
+
+Week 10
+This week I used AI to help explain some of the Week 10 exercises.
+I needed extra clarification on concepts like @property with validation 
+and special methods for class design. AI helped explain these ideas and how 
+one would go about applying these ideas to the exercises. 

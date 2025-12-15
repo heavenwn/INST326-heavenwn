@@ -1,0 +1,11 @@
+AI Usage Journal
+Heaven Worku
+heavenw@terpmail.umd.edu
+Section 0203
+
+Week 13 
+This week I used AI while wrapping up my final project. I used AI to clarify
+my understanding of my system's design and functionality. I also used it to help
+me refine my explainations for the documentation. When testing out the workflow of
+my program, there were parts that I used AI to debug. Overall, AI helped me keep my 
+project coherent and accurate.
